@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>macs_dual_arm</name>
+  <name>qy_dual_arm</name>
   <version>0.0.1</version>
   <description>Package containing calibrations and launch files for our UR robots.</description>
 
